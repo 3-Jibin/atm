@@ -9,13 +9,13 @@ class BackEnd:
         
         
         a = user_data()
-        b = user_data()
+        
 
         
 
         try:
 
-            if next(x for x in a if x["user_id"] == user_id) and next(y for y in b if y["password"] == pin):
+            if next(x for x in a if (x["user_id"] == user_id and x["password"] == pin)):
 
                 return True
                 
