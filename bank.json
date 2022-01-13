@@ -1,0 +1,20 @@
+[
+    {
+      "user_id": "SBI123", 
+      "name": "Jibin", 
+      "age": 20, 
+      "married": false, 
+      "phone": 8078151026, 
+      "password": 1234, 
+      "bank": "SBI"
+    }, 
+    {
+      "user_id": "ICIC123", 
+      "name": "Bibin", 
+      "age": 60, 
+      "married": true, 
+      "phone": 9078959026, 
+      "password": 2468, 
+      "bank": "ICIC"
+    }
+]

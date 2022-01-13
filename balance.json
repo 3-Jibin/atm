@@ -1,0 +1,12 @@
+[
+  {
+    "user_id": "SBI123",
+    "password": 1234,
+    "amount": 30000000910
+  },
+  {
+    "user_id": "ICIC123",
+    "password": 2468,
+    "amount": 300000008000
+  }
+]
